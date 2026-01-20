@@ -6,8 +6,7 @@
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "socket.io-client": "^4.8.3",
-    "homepage": "https://jiyaaggarwal267-maker.github.io/real-chat-app"
+    "socket.io-client": "^4.8.3"
 
   },
   "scripts": {
